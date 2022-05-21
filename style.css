@@ -1,7 +1,36 @@
-
-
-
-.h-center {
+body {
+    background-color: rgb(174, 197, 204);
+  }
+  
+  h1 {
+      
+        color: blue;
         text-align: center;
-       
-            }
+     }
+  button {
+        color: red;
+        background-color: rgb(23, 183, 231);
+        text: shadow 1px; ;
+
+        }
+
+    h2  {
+    color:blue;
+    text-align: center;
+    list-style-position: inside;
+    }   
+
+  
+    p {
+
+    font-family: verdana;
+    font-size: 20 ;
+    text-align: center;
+     }
+
+     .menu  {
+         text-align: center;
+        margin-left: 10;
+     }
+
+     
